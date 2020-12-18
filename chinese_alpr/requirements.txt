@@ -1,0 +1,8 @@
+tired and tested with tensorflow 1.15
+keras 2.1.2 
+for any issues and errors with keras 
+python 3.6.4
+
+because keras 2.1.2 runs with 3.6 python
+
+https://github.com/pierluigiferrari/ssd_keras/issues/290
