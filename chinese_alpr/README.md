@@ -9,6 +9,7 @@
 
 直接克隆或下载项目。
 
+# this chinese code works okay okay
 项目使用pycharm，python3.7 64位版， window10 64位版开发，开发环境配置：
 
 1. 安装anaconda3
